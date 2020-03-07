@@ -1,0 +1,11 @@
+{
+	"min_word_size" : 5,
+	"max_word_size" : 20,
+	"apply_sources" : [
+		"text.tex.latex", "meta.group.brace.latex"
+	],
+	"include_sources" : [
+		"text.html.markdown","meta.paragraph.markdown"
+	],
+
+}
