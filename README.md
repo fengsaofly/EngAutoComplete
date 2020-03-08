@@ -35,9 +35,7 @@ This plugin provides several features that simplify working with LaTeX files:
 
 ## Requirements and Setup
 
-The easiest way to install EngAutoComplete is via [Package Control](https://packagecontrol.io/). See [the Package Control installation instructions](https://packagecontrol.io/installation) for details on how to set it up (it's very easy.) Once you have Package Control up and running, invoke it (via the **Command Palette** from the Tools menu, or from Preferences), select the **Install Package** command, and find **EngAutoComplete**.
-
-If you prefer a more hands-on approach, you can always clone the git repository, or else just grab this plugin's .zip file from GitHub and extract it to your Packages directory (you can open it easily from ST, by clicking on **Preferences > Browse Packages**). Then, (re)launch ST. Please note that if you do a manual installation, the Package **must** be named **EngAutoComplete**.
+We only offer a hands-on approach, you can always clone the git repository, or else just grab this plugin's .zip file from GitHub and extract it to your Packages directory (you can open it easily from ST, by clicking on **Preferences > Browse Packages**). Then, (re)launch ST. Please note that if you do a manual installation, the Package **must** be named **EngAutoComplete**.
 
 Before you start to work, you should open your English Libraries  (be active in ST3) and make sure every example is splitted by empty line. **Markdown** is only supported by default, which is configurable by Package Settings.
 
